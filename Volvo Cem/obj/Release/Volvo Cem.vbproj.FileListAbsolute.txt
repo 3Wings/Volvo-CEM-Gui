@@ -1,0 +1,11 @@
+C:\Users\pem81\source\repos\Volvo Cem\Volvo Cem\bin\Release\Volvo Cem.exe.config
+C:\Users\pem81\source\repos\Volvo Cem\Volvo Cem\bin\Release\Volvo Cem.exe
+C:\Users\pem81\source\repos\Volvo Cem\Volvo Cem\bin\Release\Volvo Cem.pdb
+C:\Users\pem81\source\repos\Volvo Cem\Volvo Cem\bin\Release\Volvo Cem.xml
+C:\Users\pem81\source\repos\Volvo Cem\Volvo Cem\obj\Release\Volvo Cem.vbprojAssemblyReference.cache
+C:\Users\pem81\source\repos\Volvo Cem\Volvo Cem\obj\Release\Volvo_Cem.Form1.resources
+C:\Users\pem81\source\repos\Volvo Cem\Volvo Cem\obj\Release\Volvo_Cem.Resources.resources
+C:\Users\pem81\source\repos\Volvo Cem\Volvo Cem\obj\Release\Volvo Cem.vbproj.GenerateResource.cache
+C:\Users\pem81\source\repos\Volvo Cem\Volvo Cem\obj\Release\Volvo Cem.exe
+C:\Users\pem81\source\repos\Volvo Cem\Volvo Cem\obj\Release\Volvo Cem.xml
+C:\Users\pem81\source\repos\Volvo Cem\Volvo Cem\obj\Release\Volvo Cem.pdb

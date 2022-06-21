@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Volvo Cem", "Volvo Cem\Volvo Cem.vbproj", "{5F9DA7BA-6734-45BF-BDD0-350E1E988786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F9DA7BA-6734-45BF-BDD0-350E1E988786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9DA7BA-6734-45BF-BDD0-350E1E988786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9DA7BA-6734-45BF-BDD0-350E1E988786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9DA7BA-6734-45BF-BDD0-350E1E988786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A0DC183-C114-4E49-9AA6-22013C19A9F3}
+	EndGlobalSection
+EndGlobal
